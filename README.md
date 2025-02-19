@@ -1,7 +1,7 @@
 # DE_DBTool - Secure & Versatile Database Utility
 
 ## Overview
-DE_DBTool is a powerful **cross-platform database management tool** designed to handle **SQL and NoSQL databases** efficiently. Inspired by `m_db` from Ab Initio, this tool enables seamless **database interactions**, **secure authentication**, and **data extraction** in a simple and automated manner.
+DE_DBTool is a powerful **cross-platform database management tool** designed to handle **SQL and NoSQL databases** efficiently. This tool enables seamless **database interactions**, **secure authentication**, and **data extraction** in a simple and automated manner.
 
 With support for **SQL Server, Oracle, MySQL, PostgreSQL, MongoDB, and Cassandra**, DE_DBTool provides **flexibility for future database versions** while ensuring **encrypted credential handling** and **secure database connectivity**.
 
